@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706976740367",
+    "project_id": "decorationshop77-37b1e",
+    "storage_bucket": "decorationshop77-37b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706976740367:android:61153223f9a6fd45dedf7a",
+        "android_client_info": {
+          "package_name": "com.example.decorationshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706976740367-bdm2p1v6iddkb5kvs62ruvd5ldoko3g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.decorationshop",
+            "certificate_hash": "5eb5858a52fb62727c444fe5feb9013bfde0a39e"
+          }
+        },
+        {
+          "client_id": "706976740367-usmmri17vasdcoc3musb1pmavq23fgnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HVujGaOBXZP6sBcJZ3flvyKhv3nrczk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706976740367-usmmri17vasdcoc3musb1pmavq23fgnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

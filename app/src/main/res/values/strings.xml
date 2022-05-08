@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DecorationShop</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés (vásárlás)</string>
+    <string name="login2">Bejelentkezés (árufeltöltés)</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="password2">Jelszó újra</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone">Telefonszám</string>
+    <string name="male">Férfi</string>
+    <string name="female">Nő</string>
+    <string name="cart">Vásárlás</string>
+    <string name="products">Termékek</string>
+    <string name="amount">Mennyiség: </string>
+    <string name="price">Ár (Ft): </string>
+    <string name="title">Név </string>
+    <string name="add">Hozzáadás</string>
+</resources>
